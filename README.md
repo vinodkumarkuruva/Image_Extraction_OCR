@@ -1,6 +1,8 @@
-## Title : OCR Text Extractor
+## Title : 
+OCR Text Extractor
 
-## Description : This project is a simple Optical Character Recognition (OCR) tool that extracts text from images using Python's Tesseract OCR library. Given an image path, the tool uses pre-processing techniques to enhance text readability and then extracts text using Tesseract OCR.
+## Description : 
+This project is a simple Optical Character Recognition (OCR) tool that extracts text from images using Python's Tesseract OCR library. Given an image path, the tool uses pre-processing techniques to enhance text readability and then extracts text using Tesseract OCR.
 
 ## Features
 
