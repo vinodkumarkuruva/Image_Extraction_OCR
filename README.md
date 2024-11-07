@@ -18,8 +18,7 @@ Ensure you have the following installed:
 ## Installation
 
 1. Clone this repository:
-   
-     git clone https://github.com/yourusername/ocr-text-extractor.git
+     git clone https://github.com/vinodkumarkuruva/Image_Extraction_OCR.git
      cd ocr-text-extractor
 
 2. Installation :
